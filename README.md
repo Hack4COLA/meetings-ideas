@@ -1,4 +1,4 @@
-# meetings-ideas
+# Meeting Ideas
 Topic ideas for our meetings.  Open an Issue to contribute your votes and additional topic suggestions!
 
 ## Technical 
@@ -18,4 +18,4 @@ Topic ideas for our meetings.  Open an Issue to contribute your votes and additi
 | Subject | Description | Votes |
 | ------- | ----------- | ----- |
 | Public Health | | |
-| Transportation | |
+| County Services | |
